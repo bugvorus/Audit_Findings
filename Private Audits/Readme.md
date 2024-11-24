@@ -2,4 +2,4 @@ In this section, I have assigned a unique number to each `client` instead of usi
 
 For example, if for client 'UIERGJG' I identify 1 critical and 3 high-severity issues, the client is assigned a number based on their position in the list (for this explanation, let's assume it is 4).
 
-=>The findings are then presented as 4(C), 4(H.1), 4(H.2), and 4(H.3), and so on.
+=>The findings are then presented under 4 as [C-01], [H-01], [H-02], [H-03], and so on.
